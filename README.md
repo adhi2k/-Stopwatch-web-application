@@ -2,6 +2,10 @@
 
 A simple stopwatch web application built using HTML, CSS, and JavaScript. The application features start/stop/reset functionality, and split times.
 
+## Preview
+
+![Stopwatch Preview] (https://adhi2k.github.io/-Stopwatch-web-application/)
+
 ## Features
 
 - **Start/Stop/Reset**: Controls to manage the stopwatch.
