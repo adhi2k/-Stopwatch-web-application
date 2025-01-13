@@ -4,7 +4,7 @@ A simple stopwatch web application built using HTML, CSS, and JavaScript. The ap
 
 ## Preview
 
-[Stopwatch Preview](https://adhi2k.github.io/-Stopwatch-web-application/)
+Stopwatch Preview >> [https://img.icons8.com/?size=100&id=24969&format=png&color=000000](https://adhi2k.github.io/-Stopwatch-web-application/)
 
 ## Features
 
