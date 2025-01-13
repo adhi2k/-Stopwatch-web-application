@@ -1,14 +1,13 @@
 # Stopwatch Web Application
 
-A simple stopwatch web application built using HTML, CSS, and JavaScript. The application features a 3D video background, start/stop/reset functionality, split times, and informational details displayed at the bottom-right corner of the screen.
+A simple stopwatch web application built using HTML, CSS, and JavaScript. The application features start/stop/reset functionality, and split times.
 
 ## Features
 
 - **Start/Stop/Reset**: Controls to manage the stopwatch.
 - **Split Times**: Record and display split times during the stopwatch session.
-- **3D Video Background**: A visually appealing video plays in the background.
-- **Info Details**: Displays additional information or credits in the bottom-right corner.
 
+  
 ## Technologies Used
 
 - **HTML**: Structure of the web page.
@@ -20,3 +19,28 @@ A simple stopwatch web application built using HTML, CSS, and JavaScript. The ap
 1. Clone the repository:
    ```bash
    git clone https://github.com/adhi2k/Stopwatch-web-application.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd Stopwatch-web-application
+
+3. Open **index.html** in your browser to run the application.
+
+## Project Structure
+```bash
+Stopwatch-web-application/
+├── index.html         # Main HTML file
+├── style.css          # Custom CSS file for styling
+├── script.js          # JavaScript file for stopwatch functionality
+└── your-3d-video.mp4  # 3D video used as the background
+```
+
+#License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project as per the license terms.
+
+
+#Designed and developed by ADHITHYA K
+
+
+
+
