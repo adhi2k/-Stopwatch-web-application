@@ -1,5 +1,6 @@
+<center>
 # Stopwatch Web Application⏰
-
+</center>
 A simple stopwatch web application built using HTML, CSS, and JavaScript. The application features start/stop/reset functionality, and split times.
 
 ## Preview
@@ -42,9 +43,9 @@ Stopwatch-web-application/
 ## License 🪪
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project as per the license terms.
 
-
+<center>
 ## Designed and developed by ADHITHYA K
-
+</center>
 
 
 
