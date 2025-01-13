@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" type="image/x-icon" href="clock.png">
+    <title>Stopwatch</title>
+
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- GOOGLE Fonts Embed code -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Playwrite+AU+SA:wght@100..400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+
+</head>
+<body>
+
+    <!-- Background-video -->
+    <video autoplay muted loop id="backgroundVideo">
+        <source src="background.mp4" type="video/mp4">
+    </video>
+
+
+    <div class="container">
+        <h2 class="text-center" >Stopwatch</h2>
+        <div class="timer" id="timer">00:00:00:000</div>
+        <div class="btn-group">
+            <!-- Buttons Section -->
+            <button class="btn btn-success" onclick="startTimer()">Start</button>
+            <button class="btn btn-danger" onclick="stopTimer()">Stop</button>
+            <button class="btn btn-info" onclick="splitTimer()">Split</button>
+            
+            <button class="btn btn-secondary" onclick="resetTimer()">Reset</button>
+        </div>
+        <ul class="split-times" id="splitTimes"></ul>
+    </div>
+
+    <script src="script.js"></script>
+
+     <!-- Info Details -->
+     <div class="info-details">
+        <p style="text-align: center;">Adhithya</p>
+        <p>Stopwatch App &copy; 2025</p>
+        <p style="text-align: center;"><a href="https://www.linkedin.com/in/adhithya-k-3a6653295?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVteQeMGeQsmFO7qsarEsOw%3D%3D" target="_blank">Contact us </a></p>
+    </div>
+
+   
+</body>
+</html>
