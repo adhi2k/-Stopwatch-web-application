@@ -35,11 +35,12 @@ Stopwatch-web-application/
 └── your-3d-video.mp4  # 3D video used as the background
 ```
 
-#License
-This project is licensed under the MIT License. You are free to use, modify, and distribute this project as per the license terms.
+##License
+
+- This project is licensed under the MIT License. You are free to use, modify, and distribute this project as per the license terms.
 
 
-#Designed and developed by ADHITHYA K
+##Designed and developed by ADHITHYA K
 
 
 
